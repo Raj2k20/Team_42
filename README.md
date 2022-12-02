@@ -14,8 +14,8 @@ raw audio samples without explicit feature engineering.
 ## Files
 
 - **[SMAI - Music Genre classification.pptx](https://github.com/Raj2k20/Team_42/blob/main/SMAI%20-%20Music%20Genre%20classification.pptx)** - Presentation for reference
-- [**SoftMaxEncoder.ipynb**](https://github.com/Raj2k20/Team_42/blob/main/code/SoftMaxEncoder.ipynb) - Trains a neural network using soft max encoding
-- [**SoftMaxTester.ipynb**](https://github.com/Raj2k20/Team_42/blob/main/code/SoftMaxTester.ipynb) - Tests the neural network created and prints confusion matrix, PCA-2D, precision, recall, F1 score etc.
+- [**SoftMaxEncoder.ipynb**](https://github.com/Raj2k20/Team_42/blob/main/code/SoftMaxEncoder.ipynb) - Trains a neural network using soft max encoding and outputs Training and Dev Accuracy along with a visualisation 
+- [**SoftMaxTester.ipynb**](https://github.com/Raj2k20/Team_42/blob/main/code/SoftMaxTester.ipynb) - Tests the neural network created and prints confusion matrix, PCA-500D, PCA-4D, Precision, Recall, F1 score, Support etc.
 
 ## How to run the code?
 

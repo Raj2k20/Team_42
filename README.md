@@ -22,7 +22,7 @@ raw audio samples without explicit feature engineering.
 ```bash
 $ git clone "https://github.com/Raj2k20/Team_42.git"
 - Download Dataset from the link above and place it in the code/ directory
-- Run [**SoftMaxEncoder.ipynb](https://github.com/Raj2k20/Team_42/blob/main/code/SoftMaxEncoder.ipynb)** followed by [**SoftMaxTester.ipynb](https://github.com/Raj2k20/Team_42/blob/main/code/SoftMaxTester.ipynb) to see the results**
+- Run [**SoftMaxEncoder.ipynb**](https://github.com/Raj2k20/Team_42/blob/main/code/SoftMaxEncoder.ipynb) followed by [**SoftMaxTester.ipynb**](https://github.com/Raj2k20/Team_42/blob/main/code/SoftMaxTester.ipynb) to see the results**
 ```
 
 # Authored by **Balaji Patakula, Phani Karnati, Saurav Chhatani and P A E Sai Raj**
